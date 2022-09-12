@@ -1,2 +1,2 @@
 # InvestmentPredictor
-A program that analyzes your stock picks to predict average returns in a given time period. 
+This repository is a collection of all the coding projects through the courses for special topics. 
